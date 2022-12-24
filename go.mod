@@ -1,1 +1,1 @@
-module github.com/bbrodriges/bundle
+module github.com/jtbonhomme/bundle
